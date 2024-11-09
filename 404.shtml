@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <title>FerrumCyan Shared Link</title>
+    <link rel="shortcut icon" href="https://ferrumcyan.top/logo.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://ferrumcyan.top/styles.css">
+</head>
+<body>
+    <div class="top-bar">
+        <div class="logo">
+            <a href="/">FerrumCyan Shared Link</a>
+        </div>
+        <div class="nav-menu">
+            <a href="https://ferrumcyan.top/" class="nav-button">Visit FerrumCyan.top</a>
+        </div>
+    </div>
+    <div class="main-content">
+        <div class="image-container">
+            <h1>403 Forbidden</h1>
+        </div>
+    </div>
+  <p>
+    You don't have access to visit this page. If you are trying to visit FerrumCyan.top, please click <a href="https://ferrumcyan.top" style="color:#298191;">this link</a>, type "https://ferrumcyan.top" in the browser, or search FerrumCyan on <a href="https://bing.com" style="color:#0000FF" target="_blank">Bing</a> or <a href="https://google.com" style="color:#0000FF" target="_blank">Google</a> then click the link of "ferrumcyan.top". If got a link from your friends or somebody else and went to this page, ask him or her whether the link is correct or not. 
+  </p>
+    <div class="footer">
+        版权所有 <a href="https://ferrumcyan.top/" style="color:rgb(0,0,255)">铁皮青</a> 2019-<script>document.write(new Date().getFullYear());</script><br>
+        Copyright <a href="https://ferrumcyan.top/" style="color:rgb(0,0,255)">FerrumCyan</a> 2019-<script>document.write(new Date().getFullYear());</script><br>
+    </div>
+
+
+<script src="chrome-extension://djjmoiaencjmgngkkicflbhijjodciap/static/js/inject.js" type="text/javascript" async=""></script></body></html>
