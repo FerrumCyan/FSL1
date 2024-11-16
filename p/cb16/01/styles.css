@@ -78,10 +78,11 @@ body {
 }
 
 .image-container img {
-    max-width: calc(50% - 20px); /* 计算最大宽度，减去间距的一半 */
+    max-width: calc(50% - 10px); /* 计算最大宽度，减去间距的一半 */
     height: auto; /* 自动高度 */
     object-fit: contain; /* 保持原始比例并填充容器 */
     border-radius: 8px;
+    margin: 10px 0; /* 设置图片上下与 .section-box 边缘的距离 */
 }
 
 .footer {
