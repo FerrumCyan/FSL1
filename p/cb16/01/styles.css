@@ -73,13 +73,14 @@ body {
     justify-content: space-around;
     width: 100%;
     gap: 20px; /* 设置图片之间的间距 */
+    padding: 10px; /* 设置图片与 .section-box 边缘的距离 */
+    box-sizing: border-box; /* 包括内边距在内的宽度计算 */
 }
 
 .image-container img {
-    max-width: calc(50% - 10px); /* 计算最大宽度，减去间距的一半 */
+    max-width: calc(50% - 20px); /* 计算最大宽度，减去间距的一半 */
     height: auto; /* 自动高度 */
     object-fit: contain; /* 保持原始比例并填充容器 */
-    margin: 10px; /* 设置图片与边框的距离 */
     border-radius: 8px;
 }
 
