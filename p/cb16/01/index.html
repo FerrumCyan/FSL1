@@ -6,18 +6,14 @@
     <link rel="shortcut icon" href="https://ferrumcyan.top/logo.ico" type="image/x-icon">
     <link rel="stylesheet" href="./styles.css">
     <style>
-        /* 添加样式以防止图片被拖动 */
         img {
             pointer-events: none;
         }
     </style>
     <script>
-        // 禁用右键菜单
         document.addEventListener('contextmenu', function(e) {
             e.preventDefault();
         });
-
-        // 禁用F12开发者工具
         document.addEventListener('keydown', function(event) {
             if (event.key === 'F12' || (event.ctrlKey && event.shiftKey && event.key === 'I') || (event.ctrlKey && event.key === 'U')) {
                 event.preventDefault();
